@@ -1,0 +1,9 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+#session-expired-modal, #session-expire-warning-modal {
+    display: none;
+}
